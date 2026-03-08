@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LOVE AGAIN",
+  "base_artist": "The Kid LAROI",
+  "createdAt": "2026-03-08T04:59:45.293703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Fell In Love Again Last Night",
+      "artist": "The Forester Sisters",
+      "has_synced": false,
+      "path": "select/01_I_Fell_In_Love_Again_Last_Night_The_Forester_Sisters.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Again",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/02_Love_Again_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Love Again",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Never_Love_Again_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Gonna Love Again",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/04_Never_Gonna_Love_Again_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fall In Love Again",
+      "artist": "Eddie Money",
+      "has_synced": true,
+      "path": "select/05_Fall_In_Love_Again_Eddie_Money.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wish I Were In Love Again",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/06_I_Wish_I_Were_In_Love_Again_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In Love Again",
+      "artist": "Jermaine Stewart",
+      "has_synced": false,
+      "path": "select/07_In_Love_Again_Jermaine_Stewart.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In Walks Love Again",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/08_In_Walks_Love_Again_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm In Love Again",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/09_I'm_In_Love_Again_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Gonna Fall In Love Again",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/10_Never_Gonna_Fall_In_Love_Again_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Love Again",
+      "artist": "BROS",
+      "has_synced": false,
+      "path": "select/11_Never_Love_Again_BROS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Failing In Love Again",
+      "artist": "Londonbeat",
+      "has_synced": true,
+      "path": "select/12_Failing_In_Love_Again_Londonbeat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Again",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/13_Love_Again_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You’re Gonna Love Again",
+      "artist": "Nervo",
+      "has_synced": true,
+      "path": "select/14_You’re_Gonna_Love_Again_Nervo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Don't Want to Fall in Love Again",
+      "artist": "White Town",
+      "has_synced": false,
+      "path": "select/15_I_Don't_Want_to_Fall_in_Love_Again_White_Town.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Again",
+      "artist": "Cold Hart feat. YAWNS",
+      "has_synced": false,
+      "path": "select/16_Love_Again_Cold_Hart_feat._YAWNS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Again",
+      "artist": "The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Again_The_Kid_LAROI.txt"
+    }
+  ]
+}
